@@ -1,7 +1,7 @@
 ---
 applications:
-- name: hello
+- name: manojhello
   memory: 256M
   instances: 1
-  host: hello
+  host: manojhello
   domain: mybluemix.net
